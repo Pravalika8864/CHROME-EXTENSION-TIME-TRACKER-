@@ -1,17 +1,10 @@
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+**COMPANY: CODETECH IT SOLUTIONS
+NAME: Pravalika Lakkam
+INTERN ID:CT06DA407
+DOMAIN:FULL STACK DEVELOPMENT
+DURATION: 6 WEEKS
+MENTOR: NEELA SANTOSH**
+ **task-4:chrome extension**
 
 The Time Tracker & Productivity Analyzer is a Chrome Extension built to help users monitor their browser usage and analyze how much time
 they spend on productive versus unproductive websites. With the rise of remote work and online learning, people often struggle to stay
@@ -37,3 +30,7 @@ habits and can motivate them to make better use of their time.
 
 Overall, the Time Tracker & Productivity Analyzer is a practical and extensible tool that brings together browser automation and data analytics to
 help users improve their digital productivity.
+
+# output
+![Image](https://github.com/user-attachments/assets/f250ce62-acd2-41c5-91d7-452528820c31)
+
